@@ -63,13 +63,3 @@ form do |f|
   f.actions
 end
 ```
-
-
-
-## Contributors
-
-Alexey Krylov
-
-## License
-
-MIT License. Copyright 2018 Alexey Krylov
